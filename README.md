@@ -31,3 +31,4 @@ Se você estiver interessado em discutir projetos, colaborações ou apenas quer
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <hr># Porti-lio
+# Portifolio
